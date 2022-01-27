@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Mes images">
+    <file>felice.png</file>
+    <file>Design/cercle.png</file>
+    <file>Design/croix.png</file>
+    <file>maphoto.png</file>
+  </qresource>
+</RCC>
